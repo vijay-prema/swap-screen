@@ -1,4 +1,4 @@
-# Screen Swap
+# Swap Screen
 On a dual screen/monitor/display setup, swap your mouse pointer from one screen to the other instantly.
 
 # Requirements
