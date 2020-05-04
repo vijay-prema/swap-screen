@@ -15,12 +15,12 @@ On a dual screen/monitor/display setup, swap your mouse pointer from one screen 
   ```
   xrandr | grep " connected"
   ```
-4. Make the script executable if required
+3. Make the script executable if required
   ```
   chmod +x swap-screen.sh
   ```
-3. Copy the script to somewhere on your path
+4. Copy the script to somewhere on your path
   ```
   cp swap-screeh.sh ~/.local/bin/
   ```
-4. Test by running ```swap-screeh.sh```, then bind this command to a hot-key.  For example I bind it to an extra side-button on my mouse using Keyboard Shortcuts settings in Ubuntu Gnome Desktop.
+5. Test by running ```swap-screeh.sh```, then bind this command to a hot-key.  For example I bind it to an extra side-button on my mouse using Keyboard Shortcuts settings in Ubuntu Gnome Desktop.
