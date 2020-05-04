@@ -1,6 +1,11 @@
 # Screen Swap
 On a dual screen/monitor/display setup, swap your mouse pointer from one screen to the other instantly.
 
+# Requirements
+* Dual screens/monitors/displays
+* xdotool installed
+* Tested working on Ubuntu 20.04 (Gnome Desktop), but probably works on many others.
+
 # Installation
 1. Install xdotool if you dont have it
   ```
