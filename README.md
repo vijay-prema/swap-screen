@@ -1,5 +1,5 @@
 # Swap Screen
-On a dual screen/monitor/display setup, swap your mouse pointer from one screen to the other instantly.
+On a Linux dual screen/monitor/display setup, swap your mouse pointer from one screen to the other instantly.
 
 # Requirements
 * Dual screens/monitors/displays
